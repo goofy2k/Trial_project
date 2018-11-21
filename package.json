@@ -1,0 +1,12 @@
+{
+    "name": "Trial_project",
+    "description": "Fresh  0.19.5 install",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flow.json",
+            "credentialsFile": "flow_cred.json"
+        }
+    }
+}
